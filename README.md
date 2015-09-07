@@ -1,0 +1,5 @@
+# Blood
+延伸自 https://github.com/g0v/blood
+上述的內容自各個捐血中心即時取得目前血液存量至 http://g0v.github.io/blood/blood.json
+
+這個程式的目的在將 http://g0v.github.io/blood/blood.json 的內容圖像化，讓使用者可以即時確認血液存量狀況。
