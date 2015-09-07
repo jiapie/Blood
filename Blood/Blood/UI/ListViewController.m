@@ -34,6 +34,7 @@
     
     NSString *sBloodStatus = [tableArray objectAtIndex:indexPath.row];
     NSArray *aBloodStatus = [sBloodStatus componentsSeparatedByString:@" "];
+    cell.textLabel.text = aBloodStatus[0];
     //NSLog(@"aBloodStatus(%d):%@",indexPath.row,aBloodStatus);
 
     NSMutableArray *aIconStatus = [[NSMutableArray alloc]initWithArray:aBloodStatus];
