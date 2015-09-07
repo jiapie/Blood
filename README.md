@@ -4,3 +4,5 @@
 (http://g0v.github.io/blood/blood.json)
 
 這個程式的目的在將取得的內容圖像化，讓使用者可以即時確認血液存量狀況。
+
+<image src="Blood/preview/Blood.png" height="600"> </src>
